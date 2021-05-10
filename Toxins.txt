@@ -1,0 +1,9 @@
+ToxinNumber,Name,ChemicalFormula,Standard,MaxExposureTime,MaxConcentationLimit,Description
+16,Carbon Monoxide,CO,0,8 Hours,9ppm,Carbon monoxide is a colorless odorless tasteless gas
+3,Lead,Pb,2,3 months,1.0ug/m3,Lead is an elemental heavy metal found naturally in the environment as well as in manufactured products.
+5,Nitrogen Dioxide,NO2,2,1 Hour,80ug/m3,Nitrogen dioxide is part of a group of gaseous air pollutants produced as a result of road traffic and other fossil fuel combustion processes.
+11,Ozone,null,2,8 Hours,300ug/m3,Ozone is a gas composed of three atoms of oxygen. Ozone occurs both in the Earth upper atmosphere and at ground level.
+2,Particle Pollution,PM2.5,2,1 year,75ug/m3,PM2.refers to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers which is about 3% the diameter of a human hair.
+15,Particle Pollution,PM10,2,24 hours,150ug/m3,PM10 is particulate matter 10 micrometers or less in diameter PM2.5 is particulate matter 2.5 micrometers or less in diameter
+24,Sulfur Dioxide,SO2,1,1 Hour,50ug/m3,SO2 is a colorless gas with a strong odor similar to a just-struck match. It is formed when fuel containing sulfur such as coal and oil is burned creating air pollution. 
+8,Ammonia,null,0,3 Hours,400ug/m3,a compound of nitrogen and hydrogen which is a byproduct of agriculture and industry. Gaseous ammonia reacts with other pollutants in the air to form fine particles of ammonium s

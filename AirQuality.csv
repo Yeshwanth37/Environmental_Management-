@@ -1,0 +1,9 @@
+StationNumber,DeciveNumber,DateNumber,ToxinNumber,WindSpeed,AtmosphericVisibility,AirQualityIndex,ToxinConcentrationLevel,Category
+1023,1902,10034,16,8.75,0.25,18,57,Good
+1003,1906,10034,3,7.36,0.46,35,73,Moderate
+1005,1910,10034,5,6.83,0.84,14,89,Good
+1010,1914,10034,11,3.65,0.35,36,92,Good
+1003,1918,10034,2,7.27,0.56,38,73,Moderate
+1005,1922,10034,15,8.28,0.67,15,98,Good
+1023,1926,10034,24,9.53,0.36,52,92,Good
+1010,1910,10034,8,8.25,0.15,19,56,Moderate

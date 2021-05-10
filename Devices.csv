@@ -1,0 +1,8 @@
+DeciveNo,DeviceName,MinRange,Max Range,Units,DeviceAccuracy,Description
+1902,Dobson Spectrophotometer,0,400,ug/m3,99,Dobson is one of the earliest instruments used to measure atmospheric ozone.
+1906,Carbon Monoxide Detector,0,500,ppm,93.5,CO detector is a device that detects the presence of the carbon monoxide (CO) gas to prevent carbon monoxide poisoning.
+1910,LeadCheck Swabs,0,300,ug/m3,97.2,"Swabs are EPA recognized, non-toxic and provide a rapid, test for lead on most surfaces."
+1914,Particle Counter PCE RCM 15,0,700,ug/m3,94.6,Particle counter PCE-RCM 15 is specially designed to monitor the quality of indoor air.
+1918,Sulphur Dioxide Meter,0,600,ppm,91.2,Sulfur Dioxide Meter is a portable desktop instrument that measures sulfur dioxide concentration in a range of 0-20 ppm and a resolution of 0.1 ppm. 
+1922,Nitrogen Dioxide Monitor Z-1400,0,900,ppm,95.8,Nitrogen dioxide is a chemical compound with the formula NO 2. It is one of several nitrogen oxides
+1926,Ammonia Monitor Z-800,0,300,ppm,98.9,The ZDL-800 Ammonia data logging meter stores all of the exposure points for up to 5 logs
