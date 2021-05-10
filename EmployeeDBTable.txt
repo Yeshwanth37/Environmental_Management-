@@ -1,0 +1,13 @@
+CREATE TABLE [dbo].[Employee](
+	[NationalIDNumber] [int] NULL,
+	[LoginID] [nvarchar](25) NULL,
+	[OrganizationalLevel] [int] NULL,
+	[JobTitle] [nchar](33) NULL,
+	[BirthDate] [nvarchar](25) NULL,
+	[MaritalStatus] [char](1) NULL,
+	[Gender] [char](1) NULL,
+	[HireDate] [nvarchar](25) NULL,
+	[SalariedFlag] [int] NULL,
+	[VacationHours] [int] NULL,
+	[SickLeaveHours] [int] NULL
+) ON [PRIMARY]
